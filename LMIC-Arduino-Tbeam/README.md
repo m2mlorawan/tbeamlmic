@@ -1,5 +1,5 @@
-Arduino-LMIC library
-====================
+Arduino-LMIC library for AS923 and TTGO Tbeam V.1.2
+====================================================
 This repository contains the IBM LMIC (LoraMAC-in-C) library, slightly
 modified to run in the Arduino environment, allowing using the SX1272,
 SX1276 tranceivers and compatible modules (such as some HopeRF RFM9x
